@@ -68,7 +68,7 @@ export const products: Product[] = [
       'A sophisticated Bandhgala jacket crafted from premium wool blend fabric. Its sharp silhouette and regal buttons make it a must-have for formal wear.',
     price: 350.0,
     images: [
-      'https://placehold.co/600x600.png',
+      'https://images.unsplash.com/photo-1592878849122-facb97520f9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8YmFuZGhnYWxhJTIwamFja2V0fGVufDB8fHx8MTc1MzYxMjY2NHww&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
     ],
     category: 'Apparel',
@@ -82,7 +82,7 @@ export const products: Product[] = [
       'An elegant chiffon saree with contemporary prints. Lightweight and easy to drape, it comes with a matching blouse piece.',
     price: 180.0,
     images: [
-      'https://placehold.co/600x600.png',
+      'https://images.unsplash.com/photo-1693987646600-c911a3f571b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcmludGVkJTIwc2FyZWV8ZW58MHx8fHwxNzUzNjEyNjk1fDA&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
     ],
     category: 'Apparel',
