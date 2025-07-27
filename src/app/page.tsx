@@ -14,8 +14,8 @@ export default function Home() {
           src="https://placehold.co/1600x900.png"
           alt="Elegant textiles and fabrics"
           data-ai-hint="elegant textiles"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{objectFit: "cover"}}
           className="absolute inset-0 z-0"
         />
         <div className="relative z-10 flex h-full flex-col items-center justify-center bg-black/50 p-8 text-center">
