@@ -8,7 +8,7 @@ export const products: Product[] = [
       'A luxurious silk scarf with traditional patterns, hand-woven by master artisans. Perfect for adding a touch of elegance to any outfit.',
     price: 75.0,
     images: [
-      'https://placehold.co/600x600.png',
+      'https://images.unsplash.com/photo-1457545195570-67f207084966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2FyZnxlbnwwfHx8fDE3NTM2MTIzMzF8MA&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
       'https://placehold.co/600x600.png',
     ],
@@ -23,7 +23,7 @@ export const products: Product[] = [
       'A comfortable and stylish cotton kurta featuring intricate embroidery. Ideal for casual wear or festive occasions.',
     price: 120.0,
     images: [
-      'https://placehold.co/600x600.png',
+      'https://images.unsplash.com/photo-1622780432053-767528938f34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrdXJ0YXxlbnwwfHx8fDE3NTM2MTIzMDl8MA&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
       'https://placehold.co/600x600.png',
     ],
