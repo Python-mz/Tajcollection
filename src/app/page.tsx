@@ -11,12 +11,11 @@ export default function Home() {
     <div className="flex flex-col">
       <section className="relative h-[60vh] w-full text-white">
         <Image
-          src="https://placehold.co/1600x900.png"
+          src="https://media.burford.co.uk/images/SNY04089.jpg_edit.width-640_ln7jm6QxYVkHFHaT.jpg"
           alt="Elegant textiles and fabrics"
           data-ai-hint="elegant textiles"
           fill
-          style={{objectFit: "cover"}}
-          className="absolute inset-0 z-0"
+          className="absolute inset-0 z-0 object-cover"
         />
         <div className="relative z-10 flex h-full flex-col items-center justify-center bg-black/50 p-8 text-center">
           <h1 className="font-headline text-4xl font-bold md:text-6xl">
