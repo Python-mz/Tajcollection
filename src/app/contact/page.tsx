@@ -15,7 +15,7 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { Phone, MessageSquare } from "lucide-react";
+import { Phone, MessageSquare, UploadCloud } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { Badge } from "@/components/ui/badge";
 
@@ -126,7 +126,11 @@ export default function ContactPage() {
                                 <FormItem>
                                 <FormLabel>Product Picture (Optional)</FormLabel>
                                 <FormControl>
-                                   <Input type="file" {...form.register("productPicture")} />
+                                   <Input 
+                                      type="file" 
+                                      {...form.register("productPicture")} 
+                                      className="file:bg-primary file:text-primary-foreground file:hover:bg-primary/90 file:mr-4 file:py-2 file:px-4 file:rounded-md file:border-0"
+                                    />
                                 </FormControl>
                                 <FormMessage />
                                 </FormItem>
