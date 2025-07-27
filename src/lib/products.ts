@@ -38,7 +38,7 @@ export const products: Product[] = [
       'Breathable and lightweight linen trousers, tailored for a perfect fit. A versatile addition to your wardrobe for both formal and informal settings.',
     price: 95.0,
     images: [
-      'https://placehold.co/600x600.png',
+      'https://images.unsplash.com/photo-1624378440828-48b3558694b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaW5lbiUyMHRyb3VzZXJ8ZW58MHx8fHwxNzU0MjY0MDMwfDA&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
       'https://placehold.co/600x600.png',
     ],
@@ -53,7 +53,7 @@ export const products: Product[] = [
       'An opulent shawl woven with golden zari threads, showcasing timeless craftsmanship. A statement piece for weddings and grand events.',
     price: 250.0,
     images: [
-      'https://placehold.co/600x600.png',
+      'https://images.unsplash.com/photo-1707467885365-14ca6cc08bd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Z29sZGVuJTIwc2hhd2x8ZW58MHx8fHwxNzUzNjEyNDM1fDA&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
       'https://placehold.co/600x600.png',
     ],
