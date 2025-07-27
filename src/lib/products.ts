@@ -96,7 +96,7 @@ export const products: Product[] = [
       'Handcrafted traditional leather juttis with detailed thread work. Comfortable and durable, they pair perfectly with ethnic attire.',
     price: 85.0,
     images: [
-      'https://placehold.co/600x600.png',
+      'https://images.unsplash.com/photo-1616696038562-574c18066055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsZXRoZWFyJTIwc2hvZXN8ZW58MHx8fHwxNzUzNjEyNzI1fDA&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
     ],
     category: 'Footwear',
