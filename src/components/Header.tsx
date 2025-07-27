@@ -15,7 +15,7 @@ import { useState } from 'react';
 const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/products', label: 'All Products' },
-  { href: '/#featured', label: 'Featured' },
+  { href: '/contact', label: 'Contact' },
 ];
 
 export default function Header() {
