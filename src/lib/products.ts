@@ -38,7 +38,7 @@ export const products: Product[] = [
       'Breathable and lightweight linen trousers, tailored for a perfect fit. A versatile addition to your wardrobe for both formal and informal settings.',
     price: 95.0,
     images: [
-      'https://images.unsplash.com/photo-1624378440828-48b3558694b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaW5lbiUyMHRyb3VzZXJ8ZW58MHx8fHwxNzU0MjY0MDMwfDA&ixlib=rb-4.1.0&q=80&w=1080',
+      'https://images.unsplash.com/photo-1649566650740-cb0a625e1b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8bGluZW4lMjB0cm91c2VyfGVufDB8fHx8MTc1MzYxMjQ3MXww&ixlib=rb-4.1.0&q=80&w=1080',
       'https://placehold.co/600x600.png',
       'https://placehold.co/600x600.png',
     ],
